@@ -2,7 +2,7 @@ body{
     font: Arial, sans-serif;
      text-align: left;
      color:  #000;
-     background: url("../Lab01/images/shadowtactics_bg.jpg") no-repeat ;
+     background: url("../shadowtactics_bg.jpg") no-repeat ;
      
 }
 #page-wrapper{
@@ -11,7 +11,7 @@ body{
 }
 
 #header{
-   background: url("../Lab01/images/header_bg.png") no-repeat  rgba(255, 255, 255, 0.8);
+   background: url("../header_bg.png") no-repeat  rgba(255, 255, 255, 0.8);
    border: 1px solid  rgba(255, 255, 255, 0.8);
    width: 1220px;
    height: 200px;
