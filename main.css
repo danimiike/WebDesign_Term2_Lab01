@@ -1,0 +1,96 @@
+body{
+    font: Arial, sans-serif;
+     text-align: left;
+     color:  #000;
+     background: url("../Lab01/images/shadowtactics_bg.jpg") no-repeat ;
+     
+}
+#page-wrapper{
+   width: 1200px;
+   margin: auto;
+}
+
+#header{
+   background: url("../Lab01/images/header_bg.png") no-repeat  rgba(255, 255, 255, 0.8);
+   border: 1px solid  rgba(255, 255, 255, 0.8);
+   width: 1220px;
+   height: 200px;
+   margin-left: 350px;
+   margin-top: 50px;
+}   
+
+
+#nav{
+   background: rgba(255, 255, 255, 0.8) no-repeat;
+   width: 1228px;
+   height: 70px;
+   padding-top: 20px;
+   margin-top: 20px;
+   margin-left: 350px;
+}
+#nav ul{
+   list-style:none;
+   height: 50px;
+}
+
+#nav ul li{
+   display: inline;
+   margin: 0 20px;
+   font-size: 22px ;
+   font-weight: bold;
+
+}
+
+#nav ul li a{
+   text-decoration: none;
+   color:  #670100;
+}
+
+#main{
+   background: rgba(255, 255, 255, 0.8)no-repeat ;
+   width: 1220px;
+   height: 360px ;
+   padding: 20px 0 0 8px;
+   margin-top: 20px;
+   margin-left: 350px;
+}
+
+.shadow {
+   background: rgba(255, 255, 255, 0.8)no-repeat ;
+
+}
+
+img{
+   width: 450px;
+   float: left; 
+}
+
+.description{
+   font-size: 18px;    
+}
+
+span.span{
+   color:  #670100;
+   font-weight: bold;
+}
+
+p{
+   padding-right: 60px;
+   padding-left: 460px;
+}
+
+#footer{
+   width: 1228px;
+   text-decoration: none;
+   background: rgba(255, 255, 255, 0.8)no-repeat;
+   margin-left: 350px;
+}
+
+.first{
+   text-decoration: none;
+   padding-top : 20px;
+   font-size: 15px ;  
+   height: 40px;
+   margin: 20px;
+
+}
